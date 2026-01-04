@@ -46,6 +46,7 @@ malloc()
 calloc()
 realloc()
 free()
+mmap()
 
 process SubSystem
 
@@ -53,7 +54,14 @@ fork()
 execl()
 getpid()
 getppid()
-wait()
+wait()      => used to achive syncronisation parent execution and child death of first child
+waitpid()
 sleep()
 exit()
 _exit()
+atexit()
+nice()
+getprority()
+setpriority()
+
+// c-startup routuine
