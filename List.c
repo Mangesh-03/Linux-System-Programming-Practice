@@ -47,6 +47,7 @@ calloc()
 realloc()
 free()
 mmap()
+munmap()
 
 process SubSystem
 
@@ -65,3 +66,14 @@ getprority()
 setpriority()
 
 // c-startup routuine
+
+mkfifo()  -->named pipe
+pipe()    -->unnamed pipe
+shmget()
+shmat()
+shmdt()
+msgget()
+msgsnd()
+msgrcv()
+single()
+kill()
