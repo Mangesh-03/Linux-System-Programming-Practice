@@ -1,0 +1,9 @@
+filename:       /home/mangesh/Desktop/LSP_Application/Device_Drivers/module4/Hello.ko
+description:    It is Marvellous module
+author:         Mangesh Ashok Bedre
+license:        GPL
+srcversion:     CFB1192101311E93E2ADFA2
+depends:        
+name:           Hello
+retpoline:      Y
+vermagic:       6.14.0-37-generic SMP preempt mod_unload modversions 

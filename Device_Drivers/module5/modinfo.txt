@@ -1,0 +1,10 @@
+filename:       /home/mangesh/Desktop/LSP_Application/Device_Drivers/module5/Hello.ko
+description:    It is Marvellous module
+author:         Mangesh Ashok Bedre
+license:        GPL
+srcversion:     D72A8A9C9C7620BCD469152
+depends:        
+name:           Hello
+retpoline:      Y
+vermagic:       6.14.0-37-generic SMP preempt mod_unload modversions 
+parm:           MarvellousNo:Its a integer varible (int)
